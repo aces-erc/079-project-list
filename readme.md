@@ -62,4 +62,4 @@
     - Girish Majhli
 
 12. [Ticket Booking System](https://github.com/Sudipphuyal3256/project-c)
-    - Sudip Phuyal [@Sudipphuyal3256]https://github.com/Sudipphuyal3256
+    - Sudip Phuyal [@Sudipphuyal3256](https://github.com/Sudipphuyal3256)
