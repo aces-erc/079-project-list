@@ -1,14 +1,14 @@
 # BCT 079 C Project List:
 
 1. [Bank Management System](https://github.com/Anuja19Neupane/bank-management-system)
-    - [@Anuja19Neupane](https://github.com/Anuja19Neupane)
-    - [@suwarna-wave](https://github.com/suwarna-wave)
+    - Anuja Neupane [@Anuja19Neupane](https://github.com/Anuja19Neupane)
+    - Suwarna [@suwarna-wave](https://github.com/suwarna-wave)
 
 2. [C-Games](https://github.com/jrTilak/C-Games)
-    - [@jrTilak](https://github.com/jrTilak)
-    - [@kaleUtsab](https://github.com/kaleUtsab)
-    - [@sumitrijal1](https://github.com/sumitrijal1)
-    - [@sagar0044](https://github.com/sagar0044)
+    - Tilak Thapa [@jrTilak](https://github.com/jrTilak)
+    - Utsab Pandey [@kaleUtsab](https://github.com/kaleUtsab)
+    - Sumit Rijal [@sumitrijal1](https://github.com/sumitrijal1)
+    - Sagar [@sagar0044](https://github.com/sagar0044)
 
 3. [Expense Tracker: Manage Your Finances with Ease](https://github.com/AnuragDahal/c-project)
     - Anurag Dahal [@AnuragDahal](https://github.com/AnuragDahal)
@@ -17,10 +17,10 @@
     - Niraj Kumar Pal
 
 4. [Attendance Management System](https://github.com/pratyoos/ams.in.c)
-    - [pratyoos](https://github.com/pratyoos)
+    - Pratyoos Panta [pratyoos](https://github.com/pratyoos)
     - Sohan Sapkota
     - Roshan Kumar Kanu
-    - [Sandesh-007](https://github.com/Sandesh-007)
+    - Sandesh Poudel [Sandesh-007](https://github.com/Sandesh-007)
 
 5. [Console Based IOE Mock Test Application](https://github.com/Lokendrajoci/C-final-project-ERC)
     - Lokendra Joshi [@Lokendrajoci](https://github.com/Lokendrajoci)
@@ -41,10 +41,10 @@
     - Sushil Yadav [@Susilydv](https://github.com/Sushilydv)
 
 8. [Personal Diary Application](https://github.com/prateekkoirala/Personal-Diary-Application-With-C)
-    - [@prateekkoirala](https://github.com/prateekkoirala)
-    - [@smtjoshibctioepc](https://github.com/smtjoshibctioepc)
-    - [@Rajeshsharma-123](https://github.com/Rajeshsharma-123)
-    - [@prtkdhl](https://github.com/prtkdhl)
+    - Prateek Koirala [@prateekkoirala](https://github.com/prateekkoirala)
+    - Sumit Joshi [@smtjoshibctioepc](https://github.com/smtjoshibctioepc)
+    - Rajesh Sharma [@Rajeshsharma-123](https://github.com/Rajeshsharma-123)
+    - Pratik Mani Dahal [@prtkdhl](https://github.com/prtkdhl)
 
 9. [Scribble It](https://github.com/yubshan/scribble-it.git)
     - Anusha Shrestha [@wjxnl](https://github.com/wjxnl)
