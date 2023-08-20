@@ -17,10 +17,10 @@
     - Niraj Kumar Pal
 
 4. [Attendance Management System](https://github.com/pratyoos/ams.in.c)
-    - Pratyoos Panta [pratyoos](https://github.com/pratyoos)
+    - Pratyoos Panta [@pratyoos](https://github.com/pratyoos)
     - Sohan Sapkota
     - Roshan Kumar Kanu
-    - Sandesh Poudel [Sandesh-007](https://github.com/Sandesh-007)
+    - Sandesh Poudel [@Sandesh-007](https://github.com/Sandesh-007)
 
 5. [Console Based IOE Mock Test Application](https://github.com/Lokendrajoci/C-final-project-ERC)
     - Lokendra Joshi [@Lokendrajoci](https://github.com/Lokendrajoci)
