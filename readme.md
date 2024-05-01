@@ -29,7 +29,7 @@
     - Mihir Gupta [@Mihirvirat18](https://github.com/Mihirvirat18)
 
 6. [Console Voting System](https://github.com/dev-sandip/C-Project)
-    - Sandip Sapkota [@git-sandip](https://github.com/git-sandip)
+    - Sandip Sapkota [@dev-sandip](https://github.com/dev-sandip)
     - Raghav Upadhyay [@Meraghav4](https://github.com/Meraghav4)
     - Subhakar Pant [@its-subhakar9](https://github.com/its-subhakar9)
     - Sulav Poudel [@Sulav18](https://github.com/Sulav18)
